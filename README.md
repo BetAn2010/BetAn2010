@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## 🔭 I am currently working on completing laboratory work.
-## 🌱 I am currently studying at PrJSC "Higher Educational Institution "Interregional Academy of Personnel Management".
-<!--
+## 🌱 I am currently studying at Institute of Computer and Information Technologies and Design of the IAPM.
+
 **BetAn2010/BetAn2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
